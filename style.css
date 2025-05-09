@@ -15,8 +15,7 @@ h1 {
 	display: table-header-group;
 }
 .divTableCell, .divTableHead {
-	border: 10px;
-	border-color: #080707;
+	border: 10px solid #000000;
 	display: table-cell;
 	padding: 3px 10px;
 	text-align: center;
