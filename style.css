@@ -13,6 +13,10 @@ h3 {
 	font-family: verdana;
 }
 
+.Cell {
+	text-align: center;
+}
+
 .divTable{
 	display: table;
 	width: 100%;
