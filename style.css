@@ -37,7 +37,7 @@ h5 {
 	font-family: verdana;
 }
 .divTableCell2 {
-	border: 0px;
+	border: 2px;
 	display: table-cell;
 	padding: 3px 5px;
 	text-align: left;
