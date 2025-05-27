@@ -43,6 +43,14 @@ h5 {
 	text-align: left;
 	font-family: verdana;
 }
+.divTableCell0 {
+	border: 2px;
+	display: table-cell;
+	padding: 3px 5px;
+	text-align: left;
+	font-family: verdana;
+	font-weight: bold;
+}
 .divTableHeading {
 	background-color: #EEE;
 	display: table-header-group;
